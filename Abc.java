@@ -5,4 +5,7 @@ public class Abc{
 	public void dispaly(){
 		Sysyem.out.println("Changes");	
 	}
+	public void newNet(){
+
+	}
 }
